@@ -13,8 +13,8 @@ Investigar y documentar funciones básicas de Python mediante Jupyter Notebooks,
 - **Integrante 2: Maria Ortiz** — preparar, ejecutar y revisar las 15 funciones complementarias en `_Funciones2.ipynb`.
 
 ## Contenido del repositorio
-- `01_Funciones_basicas_integrante_1.ipynb`: primera parte del tutorial.
-- `02_Funciones_basicas_integrante_2.ipynb`: segunda parte del tutorial.
+- `01_Funciones_basicas_1.ipynb`: primera parte del tutorial.
+- `02_Funciones_basicas_2.ipynb`: segunda parte del tutorial.
 - `README.md`: descripción e instrucciones del proyecto.
 - `Informe_de_proceso.pdf`: informe final de la colaboración (subir cuando esté terminado).
 

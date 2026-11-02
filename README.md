@@ -16,7 +16,7 @@ Investigar y documentar funciones básicas de Python mediante Jupyter Notebooks,
 - `01_Funciones_basicas_1.ipynb`: primera parte del tutorial.
 - `02_Funciones_basicas_2.ipynb`: segunda parte del tutorial.
 - `README.md`: descripción e instrucciones del proyecto.
-- `Informe_de_proceso.pdf`: informe final de la colaboración (subir cuando esté terminado).
+- `Informe_de_proceso.pdf`: informe final de la colaboración.
 
 ## Funciones documentadas
 **Parte 1:** `print()`, `input()`, `type()`, `int()`, `float()`, `str()`, `bool()`, `len()`, `range()`, `enumerate()`, `abs()`, `round()`, `sum()`, `min()` y `max()`.

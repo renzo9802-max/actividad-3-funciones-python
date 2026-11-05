@@ -9,8 +9,8 @@ Este repositorio contiene un tutorial introductorio de 30 funciones y herramient
 Investigar y documentar funciones básicas de Python mediante Jupyter Notebooks, y practicar el trabajo colaborativo usando GitHub.
 
 ## Integrantes y responsabilidades
-- **Integrante 1: Renzo Pinilla** — preparar, ejecutar y revisar las primeras 15 funciones en `_Funciones1.ipynb`.
-- **Integrante 2: Maria Ortiz** — preparar, ejecutar y revisar las 15 funciones complementarias en `_Funciones2.ipynb`.
+- **Integrante 1: Renzo Pinilla** — preparar, ejecutar y revisar las primeras 15 funciones en `Cuaderno_1.ipynb`.
+- **Integrante 2: Maria Ortiz** — preparar, ejecutar y revisar las 15 funciones complementarias en `Cuaderno_2.ipynb`.
 
 ## Contenido del repositorio
 - `cuaderno_1.ipynb`: primera parte del tutorial.
